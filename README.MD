@@ -1,6 +1,6 @@
 # Dropbox Clone
 
-### App clone da ferrmanta dropbox desenvolvido como parte do curso de Javascript da Hcode <br />
+### Clone do aplicativo web Dropbox desenvolvido como parte do curso de Javascript da Hcode <br />
 ---
 ### Technologies
 
