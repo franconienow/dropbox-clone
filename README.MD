@@ -1,6 +1,6 @@
 # Dropbox Clone
 
-### Clone do aplicativo web Dropbox desenvolvido como parte do curso de Javascript da Hcode <br />
+### Clone do aplicativo web Dropbox desenvolvido como parte do curso de JavaScript da Hcode <br />
 
 ### Technologies
 
